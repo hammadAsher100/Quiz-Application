@@ -1,0 +1,50 @@
+1,What does CPU stand for?,Central Processing Unit,Central Process Unit,Control Processing Unit,Central Processor Unit,Central Processing Unit  
+2,Which part of the computer is responsible for logic operations?,ALU,CPU,RAM,ROM,ALU  
+3,What does RAM stand for?,Random Access Memory,Read Access Memory,Read-Only Memory,Random Allocation Memory,Random Access Memory  
+4,What type of device is a keyboard?,Input,Output,Processing,Storage,Input  
+5,Which is an output device?,Monitor,Keyboard,Scanner,Microphone,Monitor  
+6,What is the brain of a computer?,CPU,Hard Drive,Memory,ALU,CPU  
+7,What is the primary function of the operating system?,Manages hardware and software,Processes user data,Stores data securely,Enables networking,Manages hardware and software  
+8,What is the smallest unit of data in computing?,Bit,Byte,Character,Pixel,Bit  
+9,Which of the following is volatile memory?,RAM,ROM,Hard Drive,SSD,RAM  
+10,What does ROM stand for?,Read-Only Memory,Random Object Memory,Read-Oriented Memory,Random Open Memory,Read-Only Memory  
+11,Which of these is not an input device?,Monitor,Mouse,Keyboard,Scanner,Monitor  
+12,What is used to connect devices to a network?,NIC,CPU,RAM,ROM,NIC  
+13,What does HTTP stand for?,Hypertext Transfer Protocol,Hyperlink Transfer Protocol,Hypertext Transfer Process,Hyperlink Text Protocol,Hypertext Transfer Protocol  
+14,What does URL stand for?,Uniform Resource Locator,Unique Resource Locator,Universal Resource Locator,Uniform Resource Linker,Uniform Resource Locator  
+15,What is the primary language of the web?,HTML,Python,Java,C++,HTML  
+16,Which of the following is not a programming language?,HTML,Python,C++,JavaScript,HTML  
+17,What is a collection of interrelated data called?,Database,File,System,Folder,Database  
+18,What does SQL stand for?,Structured Query Language,System Query Language,Sequential Query Language,Standard Query Language,Structured Query Language  
+19,What is the function of an IP address?,Identifies a device on a network,Encrypts data,Manages memory,Stores data,Identifies a device on a network  
+20,Which of these is used to store data permanently?,Hard Drive,RAM,Cache,Register,Hard Drive  
+21,What does USB stand for?,Universal Serial Bus,Unique System Bus,Universal Standard Bus,Universal Serial Block,Universal Serial Bus  
+22,Which unit is used to measure processing speed?,Hertz,Bytes,Watts,Pixels,Hertz  
+23,What does GUI stand for?,Graphical User Interface,General User Interface,Graphical Unit Interface,General Use Interface,Graphical User Interface  
+24,Which is an example of system software?,Operating System,Text Editor,Web Browser,Media Player,Operating System  
+25,What is the main purpose of a firewall?,Protects against unauthorized access,Stores data,Manages hardware,Runs applications,Protects against unauthorized access  
+26,What does DNS stand for?,Domain Name System,Data Network System,Domain Name Service,Data Name System,Domain Name System  
+27,What type of language is Python?,High-level programming language,Assembly language,Low-level language,Machine language,High-level programming language  
+28,Which protocol is used to send emails?,SMTP,HTTP,FTP,IMAP,SMTP  
+29,What is a compiler?,Converts high-level to machine code,Converts machine code to high-level,Translates hardware instructions,Runs applications,Converts high-level to machine code  
+30,What does LAN stand for?,Local Area Network,Large Area Network,Logical Area Network,Local Access Network,Local Area Network  
+31,What is a primary key in a database?,Unique identifier for a record,A duplicate record identifier,A key to encrypt data,A key to unlock a record,Unique identifier for a record  
+32,Which is an open-source operating system?,Linux,Windows,MacOS,iOS,Linux  
+33,What is the purpose of an IP address?,Identify devices on a network,Encrypt data,Store files,Run applications,Identify devices on a network  
+34,What does BIOS stand for?,Basic Input Output System,Binary Input Output System,Base Input Output System,Basic Integrated Output System,Basic Input Output System  
+35,What is phishing?,A cyber attack to steal sensitive data,A method to store data,A network protocol,A computer hardware device,A cyber attack to steal sensitive data  
+36,Which device is used for gaming inputs?,Joystick,Printer,Speaker,Hard Drive,Joystick  
+37,What is cloud computing?,Computing services over the internet,Store data in local devices,Data compression technique,Physical network device,Computing services over the internet  
+38,What does HTTPS stand for?,Hypertext Transfer Protocol Secure,Hypertext Transfer Process Secure,Hyperlink Text Protocol Secure,Hyperlink Transfer Process Secure,Hypertext Transfer Protocol Secure  
+39,Which is an example of non-volatile memory?,Hard Drive,RAM,Cache,Register,Hard Drive  
+40,Which type of software is Microsoft Word?,Application software,System software,Utility software,Security software,Application software  
+41,What does SMTP stand for?,Simple Mail Transfer Protocol,Standard Mail Transfer Protocol,Simple Messaging Transfer Protocol,System Mail Transfer Protocol,Simple Mail Transfer Protocol  
+42,What is the main purpose of cache memory?,Stores frequently used data for quick access,Stores data permanently,Manages system processes,Encrypts files,Stores frequently used data for quick access  
+43,What does IP stand for in networking?,Internet Protocol,Integrated Protocol,Internal Protocol,Interconnected Protocol,Internet Protocol  
+44,Which is an example of a search engine?,Google,Facebook,Twitter,Microsoft,Google
+45,What is an algorithm?,Step-by-step procedure to solve a problem,A software application,A type of computer virus,A programming language,Step-by-step procedure to solve a problem
+46,Which language is used for web page styling?,CSS,HTML,Python,C++,CSS
+47,What does PDF stand for?,Portable Document Format,Public Document File,Portable Data File,Public Data Format,Portable Document Format
+48,What is a Trojan Horse?,A type of malware,A type of hardware,A programming language,An operating system,A type of malware
+49,Which one is a file extension for an image?,.jpg,.docx,.exe,.pdf,.jpg
+50,What is virtualization in computing?,Creating virtual versions of resources,Deleting unnecessary files,Compressing data,Encrypting files,Creating virtual versions of resources

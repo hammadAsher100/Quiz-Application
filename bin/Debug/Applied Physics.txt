@@ -1,0 +1,50 @@
+1,What is the unit of force in the SI system?,Newton,Pascal,Joule,Watt,Newton
+2,What is the acceleration due to gravity on Earth?,9.8 m/s^2,10 m/s^2,9.6 m/s^2,9.2 m/s^2,9.8 m/s^2
+3,What does Newton's first law of motion state?,Motion stays unless stopped,F=ma,Equal reaction,a ∝ F,Motion stays unless stopped
+4,What is the formula for kinetic energy?,1/2 mv^2,mv,mg,hf,1/2 mv^2
+5,What is the unit of power?,Joule,Watt,Newton,Pascal,Watt
+6,What type of energy is stored in a compressed spring?,Kinetic energy,Chemical energy,Potential energy,Heat energy,Potential energy
+7,What is the speed of light in a vacuum?,3 x 10^8 m/s,3 x 10^6 m/s,3 x 10^5 m/s,3 x 10^7 m/s,3 x 10^8 m/s
+8,What is the unit of electrical resistance?,Ampere,Volt,Ohm,Farad,Ohm
+9,What is the formula for Ohm's law?,V=IR,I=VR,R=VI,I=V/R,V=IR
+10,What is the frequency of AC mains in most countries?,50 Hz,60 Hz,100 Hz,120 Hz,50 Hz
+11,What is the SI unit of work?,Watt,Pascal,Joule,Newton,Joule
+12,Which of the following is a scalar quantity?,Force,Velocity,Energy,Acceleration,Energy
+13,What does the law of conservation of energy state?,Energy is created,Energy is destroyed,Not created or destroyed,Energy ∝ power,Not created or destroyed
+14,What is the SI unit of pressure?,Pascal,Newton,Watt,Joule,Pascal
+15,What does the term "momentum" refer to?,Mass in motion,Energy stored in a body,Force acting over time,Rate of acceleration,Mass in motion
+16,What is the formula for momentum?,mv,mv^2,1/2 mv^2,m/g,mv
+17,What is the boiling point of water in Celsius at standard pressure?,100°C,0°C,212°C,273°C,100°C
+18,What is the law that describes the relationship between pressure and volume of a gas?,Boyle's law,Charles's law,Newton's law,Dalton's law,Boyle's law
+19,What is the SI unit of temperature?,Kelvin,Celsius,Fahrenheit,Rankine,Kelvin
+20,What is the principle of a lever based on?,Conservation of energy,Rotational equilibrium,Gravitational force,Centrifugal force,Rotational equilibrium
+21,What is the measure of how much work is done per unit of time?,Power,Energy,Force,Pressure,Power
+22,What is the energy associated with motion?,Potential energy,Thermal energy,Chemical energy,Kinetic energy,Kinetic energy
+23,What is the unit of magnetic flux?,Weber,Newton,Ohm,Henry,Weber
+24,What is the formula for wave speed?,frequency x wavelength,wavelength/frequency,frequency^2 x wavelength,wavelength^2/frequency,frequency x wavelength
+25,Which of the following waves is a mechanical wave?,Light waves,Sound waves,Microwaves,X-rays,Sound waves
+26,What is the principle of conservation of momentum?,Momentum increases,Momentum decreases,Momentum conserved in closed system,Momentum ∝ velocity,Momentum conserved in closed system
+27,What is the unit of electric charge?,Coulomb,Volt,Ampere,Ohm,Coulomb
+28,What type of lens converges light rays?,Concave,Convex,Flat,Biconcave,Convex
+29,What is the focal length of a lens?,Lens-object distance,Lens-focal point distance,Object-focal point distance,Center-lens distance,Lens-focal point distance
+30,What type of mirror is used in rearview mirrors?,Concave,Convex,Plane,Biconcave,Convex
+31,What is the principle of Archimedes' law?,Upthrust = weight of displaced fluid,Equal and opposite reaction,Force ∝ acceleration,Energy conserved,Upthrust = weight of displaced fluid
+32,What is the SI unit of frequency?,Hertz,Second,Watt,Joule,Hertz
+33,What is the relationship between voltage and current in a purely resistive circuit?,Directly proportional,Inversely proportional,Independent,Exponential,Directly proportional
+34,What is the primary cause of tides on Earth?,Wind rotation,Earth's revolution,Gravitational pull of the Moon and Sun,Earth's magnetic field,Gravitational pull of the Moon and Sun
+35,What is the relationship between speed; distance and time?,Speed=Distance/Time,Speed=Distance x Time,Speed=Time/Distance,Speed=Distance x Time^2,Speed=Distance/Time
+36,What does a transformer do?,Converts AC to DC,Changes the voltage of AC,Stores electrical energy,Measures electrical resistance,Changes the voltage of AC
+37,What is the purpose of a capacitor?,To store energy,To convert energy,To measure energy,To generate energy,To store energy
+38,What is the source of energy in nuclear reactions?,Chemical reactions,Fission and fusion,Electromagnetic waves,Friction,Fission and fusion
+39,What is the force that opposes the motion of an object?,Gravity,Friction,Tension,Thrust,Friction
+40,What is the SI unit of capacitance?,Coulomb,Farad,Henry,Ohm,Farad
+41,What type of wave is light?,Mechanical wave,Transverse wave,Longitudinal wave,Stationary wave,Transverse wave
+42,What is the principle of a hydraulic lift?,Boyle's law,Pascal's law,Archimedes' principle,Newton's first law,Pascal's law
+43,What is the charge of an electron?,Positive,Negative,Neutral,Depends on the atom,Negative
+44,What is the energy of photons proportional to?,Frequency,Wavelength,Amplitude,Time,Frequency
+45,What does Hooke's law describe?,Relationship: force-extension in spring,Relationship: speed-distance,Relationship: pressure-volume,Relationship: current-resistance,Relationship: force-extension in spring
+46,What is the unit of angular velocity?,Radians per second,Degrees,Seconds,Radians,Radians per second
+47,What is the freezing point of water in Kelvin?,212 K,0 K,100 K,273 K,273 K
+48,What is the formula for density?,Mass/Volume,Volume/Mass,Mass x Volume,Volume x Mass,Mass/Volume
+49,What is the primary source of energy for the Earth?,The Moon,The Sun,The Earth's core,Tidal waves,The Sun
+50,What type of force keeps planets in orbit around the Sun?,Friction,Magnetic force,Gravitational force,Nuclear force,Gravitational force

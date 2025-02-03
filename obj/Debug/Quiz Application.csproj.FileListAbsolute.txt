@@ -1,0 +1,36 @@
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\bin\Debug\Quiz Application.exe.config
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\bin\Debug\Quiz Application.exe
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\bin\Debug\Quiz Application.pdb
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Properties.Resources.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz Application.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz Application.exe
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz Application.pdb
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.StdLogin.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.AdminLogin.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.SelectSub.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Questions.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Result.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Adminn.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.QuizApp.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.StdSignUp.resources
+C:\Users\Admin\source\repos\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.ViewQues.resources
+D:\Quiz Application\Quiz Application\Quiz Application\bin\Debug\Quiz Application.exe.config
+D:\Quiz Application\Quiz Application\Quiz Application\bin\Debug\Quiz Application.exe
+D:\Quiz Application\Quiz Application\Quiz Application\bin\Debug\Quiz Application.pdb
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz Application.csproj.AssemblyReference.cache
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.AdminLogin.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Adminn.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.QuizApp.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Properties.Resources.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Questions.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Result.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.SelectSub.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.StdLogin.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.StdSignUp.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.ViewQues.resources
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz Application.csproj.GenerateResource.cache
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz Application.csproj.CoreCompileInputs.cache
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz Application.exe
+D:\Quiz Application\Quiz Application\Quiz Application\obj\Debug\Quiz Application.pdb

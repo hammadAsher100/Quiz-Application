@@ -1,0 +1,51 @@
+1,What is the synonym of "quick"?,slow,fast,late,tired,fast
+2,What is the antonym of "happy"?,elated,joyful,cheerful,sad,sad
+3,Which word is a noun?,run,jump,table,quickly,table  
+4,What is the past tense of "go"?,gone,goes,went,going,went  
+5,Which word is a verb?,bright,shine,brightness,color,shine  
+6,What is the plural form of "child"?,childs,children,childes,childer,children  
+7,Which sentence is correct?,He go to school,He goes to school,He going school,He went school,He goes to school  
+8,What is the adjective in this sentence: "The tall man is here"?,man,tall,here,is,tall  
+9,What is the correct article for "hour"?,a,an,the,no article,an  
+10,Which word is a conjunction?,and,quickly,happy,bright,and  
+11,What is the correct spelling?,recieve,receive,recive,receve,receive  
+12,What does "biannual" mean?,once a year,twice a year,once a month,twice a month,twice a year  
+13,What is the opposite of "beautiful"?,ugly,pretty,attractive,lovely,ugly  
+14,What is the comparative form of "good"?,gooder,better,more good,goodest,better  
+15,What is the superlative form of "bad"?,baddest,more bad,worst,worser,worst  
+16,What is the subject in this sentence: "The dog barked loudly"?,dog,barked,loudly,The dog,dog  
+17,What is the verb in this sentence: "She is running fast"?,is,running,fast,she,running  
+18,What is the plural form of "mouse"?,mouses,mouse,mice,mices,mice  
+19,Which is a proper noun?,city,London,river,mountain,London  
+20,What is the preposition in this sentence: "The book is on the table"?,book,is,on,table,on  
+21,What is the correct form: "She has __ many friends"?,to,too,two,so,too  
+22,What is the meaning of "abundant"?,scarce,plentiful,rare,few,plentiful  
+23,What is the synonym of "intelligent"?,smart,dull,foolish,slow,smart  
+24,What is the past participle of "write"?,writes,written,wrote,writing,written  
+25,What is the meaning of "benevolent"?,kind,cruel,angry,hostile,kind  
+26,What is the antonym of "brave"?,cowardly,fearless,bold,courageous,cowardly  
+27,Which is a homophone?,bare,beat,bear,bore,bear  
+28,What is the correct possessive form: "This is __ book"?,her,hers,she's,her's,her  
+29,What is the meaning of "elated"?,sad,happy,angry,tired,happy  
+30,What is the verb in this sentence: "He will study tomorrow"?,he,will,study,tomorrow,study  
+31,What is the synonym of "ancient"?,old,modern,new,recent,old  
+32,What is the correct sentence?,She don’t go,She doesn't goes,She doesn't go,She doesn’t going,She doesn't go  
+33,What is the plural form of "tooth"?,tooths,teeth,toothes,teet,teeth  
+34,What is the correct form: "He is taller __ her"?,then,than,with,to,than  
+35,What is the correct form: "The book belongs __ me"?,to,with,at,for,to  
+36,What is the opposite of "increase"?,decrease,improve,rise,add,decrease  
+37,What is the antonym of "weak"?,strong,fragile,delicate,soft,strong  
+38,What is the synonym of "happy"?,joyful,angry,sad,confused,joyful  
+39,What is the past tense of "eat"?,ate,eaten,eats,eating,ate  
+40,Which sentence uses correct punctuation?,Its cold outside,It's cold outside,Its' cold outside,It cold outside,It's cold outside  
+41,What is the plural form of "sheep"?,sheeps,sheepes,sheep,sheeped,sheep  
+42,What is the meaning of "immediate"?,slow,delayed,instant,eventual,instant  
+43,What is the comparative form of "small"?,smaller,more small,smallest,smallerest,smaller  
+44,Which is a question tag?,aren't you?,shall we?,isn't it?,all of the above,all of the above  
+45,What is the meaning of "fragile"?,strong,delicate,hard,durable,delicate  
+46,Which is an interrogative sentence?,He is there,What is he doing?,He is running,He will go,What is he doing?  
+47,What is the opposite of "early"?,late,later,soon,later on,late  
+48,What is the correct sentence?,She is coming tomorrow?,She is coming tomorrow.,She is coming tomorrow!,She is coming tomorrow;,She is coming tomorrow.  
+49,What is the meaning of "optimistic"?,hopeful,hopeless,sad,pessimistic,hopeful  
+50,What is the synonym of "bright"?,dull,shiny,dim,dark,shiny
+

@@ -1,0 +1,50 @@
+1,What does OHS stand for?,Occupational Health and Safety,Occupational Hazard and Safety,Operational Health and Safety,Organizational Health and Safety,Occupational Health and Safety  
+2,What is the main purpose of OHS?,To improve worker productivity,To prevent workplace accidents and illnesses,To reduce company costs,To enforce labor laws,To prevent workplace accidents and illnesses  
+3,Which legislation governs workplace safety in many countries?,OHS Act,Employee Safety Act,Workplace Act,Labor Safety Act,OHS Act  
+4,What does PPE stand for?,Personal Protective Equipment,Public Protective Equipment,Personal Performance Equipment,Protective Personal Equipment,Personal Protective Equipment  
+5,Which of the following is an example of PPE?,Helmet,Office Chair,Toolbox,First Aid Kit,Helmet  
+6,Who is responsible for ensuring workplace safety?,Employer,Employee,Both employer and employee,Government,Both employer and employee  
+7,What is the first step in hazard management?,Eliminate the hazard,Identify the hazard,Report the hazard,Assess the risk,Identify the hazard  
+8,What type of hazard is a slippery floor?,Biological,Chemical,Physical,Ergonomic,Physical  
+9,Which document outlines the safety policies of a company?,Safety Manual,Code of Conduct,Employee Handbook,OHS Policy,Safety Manual  
+10,What is the purpose of a risk assessment?,To identify and evaluate hazards,To report incidents,To train employees,To enforce safety rules,To identify and evaluate hazards  
+11,What does the term "near miss" mean?,A minor injury,An incident without injury,A fatal accident,A safety report,An incident without injury  
+12,Which of the following is a biological hazard?,Loud noise,Sharp tools,Viruses and bacteria,Heavy lifting,Viruses and bacteria  
+13,What is the purpose of a fire extinguisher?,To prevent fires,To contain and control small fires,To evacuate employees,To replace a fire alarm,To contain and control small fires  
+14,Which fire extinguisher is used for electrical fires?,Water,Foam,Carbon Dioxide (CO2),Powder,Carbon Dioxide (CO2)  
+15,What does a yellow safety sign typically indicate?,Warning,Danger,Mandatory action,Prohibited action,Warning  
+16,What is an ergonomic hazard?,Risk of electrical shock,Workplace stress due to design issues,Exposure to harmful chemicals,Risk of falling,Workplace stress due to design issues  
+17,What should be done immediately after a workplace injury?,Complete a report,Provide first aid,Notify HR,Conduct an investigation,Provide first aid  
+18,What does a red safety sign mean?,Caution,Danger,Mandatory action,First aid,Danger  
+19,What does MSDS stand for?,Material Safety Data Sheet,Manual for Safety Data Sheets,Mechanical Safety and Data Sheet,Managerial Safety Directive Sheet,Material Safety Data Sheet  
+20,Which of these is a chemical hazard?,Noise,Solvents,Broken glass,Vibration,Solvents  
+21,What is the purpose of a safety audit?,To punish violators,To assess compliance with safety standards,To reward safe practices,To evaluate employee performance,To assess compliance with safety standards  
+22,Which of the following is a psychosocial hazard?,Loud machinery,Bullying and harassment,Inadequate lighting,Repetitive motions,Bullying and harassment  
+23,What is the first thing to do in the event of a fire?,Use a fire extinguisher,Raise the alarm,Evacuate the building,Call emergency services,Raise the alarm  
+24,How often should fire drills be conducted?,Annually,Monthly,Quarterly,As required by law,As required by law  
+25,What is the goal of incident reporting?,To assign blame,To improve safety measures,To reduce paperwork,To increase productivity,To improve safety measures  
+26,Which of the following is an engineering control?,Providing PPE,Installing ventilation systems,Providing training,Posting warning signs,Installing ventilation systems  
+27,What is a confined space?,An area with restricted entry and exit,An open workplace,An office environment,A storage room,An area with restricted entry and exit  
+28,What is the most effective control measure for workplace hazards?,PPE,Administrative controls,Engineering controls,Hazard elimination,Hazard elimination  
+29,What should be included in an evacuation plan?,Escape routes,Emergency contact numbers,Assembly points,All of the above,All of the above  
+30,What does the lockout/tagout system prevent?,Unauthorized machine operation,Electrical fires,Chemical spills,Overcrowding,Unauthorized machine operation  
+31,What does WHMIS stand for?,Workplace Hazardous Materials Information System,Workplace Hazard Management Information System,Workplace Health Management Information System,Workplace Health and Material Information System,Workplace Hazardous Materials Information System
+32,Which of the following is a physical hazard?,Loud noise,Toxic fumes,Viruses,Poor lighting,Loud noise
+33,What is a hazard?,Anything with the potential to cause harm,A protective measure,An emergency plan,A risk assessment,Anything with the potential to cause harm
+34,What does the hierarchy of controls prioritize first?,PPE,Administrative controls,Hazard elimination,Engineering controls,Hazard elimination
+35,How can repetitive strain injuries be prevented?,Regular breaks,PPE,Warning signs,Fire drills,Regular breaks
+36,What does a green safety sign indicate?,First aid,Prohibition,Warning,Danger,First aid
+37,Which document should accompany hazardous chemicals?,MSDS,Safety Manual,Risk Assessment,Incident Report,MSDS
+38,What is the first step in responding to a chemical spill?,Evacuate the area,Notify a supervisor,Contain the spill,Identify the chemical,Identify the chemical
+39,What is the maximum weight a worker should lift manually?,Depends on regulations,10kg,25kg,50kg,Depends on regulations
+40,What does ISO 45001 relate to?,Quality Management,Environmental Management,OHS Management,Data Management,OHS Management
+41,Which of the following is a legal obligation for employers?,Providing PPE,Conducting training,Ensuring safe work conditions,All of the above,All of the above
+42,What is the purpose of a safety sign?,To communicate hazards,To enforce rules,To provide PPE,To conduct audits,To communicate hazards
+43,What should you do if you see a hazard?,Ignore it,Report it immediately,Try to fix it yourself,Leave the area,Report it immediately
+44,What is the key component of workplace safety training?,Knowledge of hazards,Use of PPE,Emergency procedures,All of the above,All of the above
+45,What is the recommended noise limit for an 8-hour workday?,85 dB,90 dB,95 dB,100 dB,85 dB
+46,Which of the following is a common workplace hazard?,Electric shock,Slips and trips,Exposure to chemicals,All of the above,All of the above
+47,What should be done after a safety incident?,Document it,Investigate the cause,Implement corrective actions,All of the above,All of the above
+48,What is the purpose of an emergency response plan?,To respond to hazards,To manage crises,To reduce risks,To document incidents,To manage crises
+49,What is the primary cause of workplace accidents?,Unsafe acts,Unsafe conditions,Lack of training,Poor management,Unsafe acts
+50,Which is the most important aspect of OHS?,Preventing accidents,Improving productivity,Reducing costs,Enforcing discipline,Preventing accidents
